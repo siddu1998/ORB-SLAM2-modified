@@ -8,3 +8,7 @@ sudo apt-get update
 sudo apt-get install libpcl-all
 
 ```
+Once the orb_slam2 has finished iterating through all the images, run 
+
+```pcl_viewer pointcloud.pcd```
+
